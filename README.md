@@ -8,7 +8,7 @@ Software developer using Java and Python. Lover of microservices architecture an
 
 * 🌍  I'm based in Santiago de Cuba, Cuba
 * ✉️  You can contact me at [vtorres5556@gmail.com](mailto:vtorres5556@gmail.com)
-* 🧠  I'm learning I'm learning NodeJS
+* 🧠  I'm learning OWL
 
 ### Skills
 
